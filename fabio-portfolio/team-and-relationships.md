@@ -66,6 +66,17 @@
 
 ---
 
+## Ernest N
+
+**Role:** Senior Frontend Engineer, dApps
+**Relationship:** Peer
+**How We Interact:** Infrequent catch-ups on cross-cutting initiatives; regular mutual PR reviews
+**What They Need From Me:** Feedback on his work, mentions of tools and patterns that would improve his work or the team.
+**What I Need From Them:** Same — feedback on my work and surfacing of tools and patterns I might be missing. He's also a valuable perspective on cross-cutting improvements given his experience.
+**Context for Agents:** Ernest is the team's expert on tech stack upgrades and a CI/CD improvements champion. Our tasks rarely overlap directly but we operate in adjacent spaces. I feel I'm currently underleveraging him — he has solid experience and genuine drive for cross-cutting improvements that I should be tapping into more.
+
+---
+
 ## Rodrigo A
 
 **Role:** Senior Software Engineer, CCIP Integrations — lead for CCIP Integrations
