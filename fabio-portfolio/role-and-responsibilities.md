@@ -16,6 +16,7 @@
 - **Mentoring — Ryan (weekly):** One-on-one with the team's most junior engineer. Probe for current tasks, surface gaps in planning or execution, and coach toward better engineering judgment.
 - **Mentoring — Alejandro & Tom (occasional):** Similar format to Ryan sessions; less frequent.
 - **Architecture sessions:** Present a challenge or topic, guide the group through design decisions, and help them build stronger engineering judgment.
+- **1:1 with Bradford (weekly):** Covers team topics, processes, struggles, wins, priorities, and longer-term initiatives. A key input for understanding company direction and shaping quarterly focus.
 - **Cross-team sync (rotating):** Weekly sync with one of the four frontend teams (CCIP dApps, Econ dApps, CCIP Integrations, "other" dApps + horizontal). Each team repeats every four weeks. Goal: stay aligned on engineering practices, architecture direction, and monorepo/tooling/e2e needs. Produce action items or plans from each session.
 
 ## Bi-Weekly Cadence
