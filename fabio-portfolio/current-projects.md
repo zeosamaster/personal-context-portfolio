@@ -18,6 +18,7 @@
 **Key Collaborators:** None directly. The CCIP Integrations team depends on this.
 **What Done Looks Like:** CCIP Explorer can use the model for e2e tests and all wallet interface methods are implemented.
 **Priority:** High
+**Notes:** After Slush, the next wallet model in the queue is Tron — lower urgency than both Slush and the e2e cross-cutting failures initiative.
 
 ## E2e Cross-Cutting Failures
 
