@@ -36,6 +36,9 @@
 - **Currents** — e2e reporting
 - **Trunk.io** — e2e reporting
 
+### Communication
+- **Slack** — primary work communication tool; target platform for automated reporting (e2e health report currently posted manually; CI/CD metrics reporting a future candidate if charting is supported)
+
 ### Build & DX
 - **ESLint (v9)** with custom Chainlink rules
 - **Prettier (v3.4)**
