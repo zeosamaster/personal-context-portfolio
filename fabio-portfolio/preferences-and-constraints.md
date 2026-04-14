@@ -30,6 +30,22 @@
 - **School pickups and after-school activities** (dance, volleyball) occur regularly and require driving windows of ~30min+. These are in Google Calendar as out-of-office events.
 - **Lunch habit to protect:** There's a tendency to skip or delay lunch when in deep focus. Agents helping plan the day should treat 1pm lunch as fixed and flag — not work around — anything that conflicts with it.
 
+## How I Like to Receive Feedback
+
+Authenticity above all. Good feedback is thorough, analytical, objective, and direct. A code or document review is not a judgement of the person — reviewers should feel free to be constructively critical without softening the message.
+
+What makes feedback land well:
+- Genuine engagement with the content — finding gaps I was blind to
+- Direct, honest observations without sugarcoating
+- Openness to debate — I'll push back if I disagree, and I expect the same
+
+What makes feedback feel off:
+- LLM-generated output copy-pasted without the reviewer actually understanding it
+- Shallow engagement that looks participatory but provides nothing material
+- Sycophancy or false agreement to avoid conflict
+
+Reviews should feel like two people working toward the same goal, not adversaries or separate entities going through the motions.
+
 ## AI Output Preferences
 
 - **Direct answer first, elaboration after.** The conclusion comes first so the reasoning can be parsed with the outcome already in mind.
