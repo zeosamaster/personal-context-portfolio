@@ -22,6 +22,10 @@ The measure of success for my role: every frontend developer can point to someth
 - **Short-term vs. long-term:** My instinct is always long-term. I consistently flag when a short-term solution needs a different long-term approach — I'll accept the compromise but I make sure it's named and prioritized, not buried.
 - **Completeness vs. breadth:** Deliberately choose breadth. Getting something from 0% to 80% across multiple areas beats perfecting one thing from 80% to 100%. The final 20% rarely justifies the 80% of effort it requires.
 
+## Career Ladder
+
+Staff Engineer is the right level — not a stepping stone. The current scope (four teams, close stakeholder relationships, hands-on coding, flexible time) is exactly what I want. Principal would require shifting to an org-wide audience, dropping coding almost entirely, and moving into a role dominated by discussions and documentation. That's not the direction I want to go. Ambition is present, but it's directed at impact within this level, not at climbing further.
+
 ## What I'm NOT Prioritizing
 
 - **The last 10-20% of anything.** Getting CI/CD from 30% to 90% is the mission — chasing 100% is not. Getting a feature to "really good and praised" is the goal — perfecting it is someone else's job or no one's job.
